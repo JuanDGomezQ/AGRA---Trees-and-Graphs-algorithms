@@ -2,7 +2,8 @@
     Codigo: 8939024
 """
 from sys import stdin
-setrecursionlimit(10**8)
+from sys import setrecursionlimit
+sys.setrecursionlimit(10**8)
 
 MAX = 25010
 train = None
